@@ -32,7 +32,7 @@ An AWS Account with sufficient permissions to create VPCs, ECS, Load Balancers, 
 2. **Install aws cli**
    ```bash
    sudo snap install aws-cli --classic
-3. **Clone the repository** to your local machine**
+3. **Clone the repository to your local machine**
 
    ```bash
    git clone https://github.com/chakradharmannepalli/particle41-devops-challenge.git
